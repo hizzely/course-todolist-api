@@ -2,7 +2,7 @@
 
 ## Cara Menggunakan
 
-1. Install XAMPP / Laragon / WAMPP / dll versi terbaru (pastikan versi PHP >= 7.3)  
+1. Install XAMPP / Laragon / WAMPP / dll versi terbaru (pastikan versi PHP >= 7.2.5)  
 Untuk pengguna Windows, daftarkan direktori yang ada `php.exe` ke Environment Variables. Lokasi `php.exe` bervariasi tergantung menggunakan tools yang mana.  
     - Default XAMPP: `C:\xampp\php`  
     - Default Laragon: `C:\laragon\bin\php\{versi php}`
